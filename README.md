@@ -1,4 +1,4 @@
-Software Developer — .NET • Azure • SQL
+Software Engineer — .NET • Azure • SQL
 
 I build backend systems that handle real operational complexity —
 not just features, but the automation, diagnostics, and reliability that keep them running.
@@ -17,30 +17,30 @@ Backend Engineering • Cloud Architecture • APIs • SQL Performance • Auto
 
 ### Stack
 
-.NET • C# • ASP.NET Core • Azure Functions
-SQL Server — design, tuning, procedures, versioning
-Azure — App Service, Blob Storage, SQL, Pipelines
-REST • SignalR • JWT • OAuth 2.0 • Swagger
+.NET • C# • ASP.NET Core • Azure Functions<br>
+SQL Server — design, tuning, procedures, versioning<br>
+Azure — App Service, Blob Storage, SQL, Pipelines<br>
+REST • SignalR • JWT • OAuth 2.0 • Swagger<br>
 CI/CD • Structured Logging • Monitoring
 
 ---
 
 ### Engineering
 
-Operational thinking before implementation
-Systems designed for how they break, not just how they work
-Automation over repetition
-Simple surface, resilient internals
+Operational thinking before implementation<br>
+Systems designed for how they break, not just how they work<br>
+Automation over repetition<br>
+Simple surface, resilient internals<br>
 Business problems first — technical decisions second
 
 ---
 
 ### Side Projects
 
-I build complete products end-to-end:
-Multi-tenant SaaS platforms
-Real-time interaction systems
-Business analytics & reporting tools
+I build complete products end-to-end:<br>
+Multi-tenant SaaS platforms<br>
+Real-time interaction systems<br>
+Business analytics & reporting tools<br>
 Automated content & technical SEO
 
 ---
