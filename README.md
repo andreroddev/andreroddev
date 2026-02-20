@@ -1,4 +1,4 @@
-**Software Developer** — .NET · Azure · Systems That Run
+**Software Developer** — .NET · Azure · SQL
 ---
 I build backend systems that handle real operational complexity — not just features, but the infrastructure, automation, and diagnostics that keep them running when no one is watching.
 Most of my work lives between development and operations: production debugging, failure analysis, data consistency, and turning manual processes into reliable systems.
