@@ -13,7 +13,6 @@ Backend Engineering · Cloud Architecture · APIs · SQL Performance · Automati
 | **Data** | SQL Server — design, tuning, procedures, versioning |
 | **Cloud** | Azure App Service · Blob Storage · SQL · Pipelines |
 | **APIs** | REST · SignalR · JWT · OAuth 2.0 · Swagger |
-| **Integrations** | Stripe · MailKit · QuestPDF |
 | **DevOps** | CI/CD · Structured Logging · Monitoring |
 ---
 ### 🧠 Engineering
