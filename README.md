@@ -14,7 +14,7 @@ Backend Engineering · Cloud Architecture · APIs · SQL Performance · Automati
 | **Cloud** | Azure App Service · Blob Storage · SQL · Pipelines |
 | **APIs** | REST · SignalR · JWT · OAuth 2.0 · Swagger |
 | **Integrations** | Stripe · MailKit · QuestPDF |
-| **DevOps** | CI/CD · Structured Logging · Rate Limiting |
+| **DevOps** | CI/CD · Structured Logging · Monitoring |
 ---
 ### 🧠 Engineering
 - Operational thinking before implementation
