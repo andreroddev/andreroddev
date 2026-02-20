@@ -1,4 +1,4 @@
-Software Engineer — .NET • Azure • SQL
+Software Developer — .NET • Azure • SQL
 
 I build backend systems that handle real operational complexity —
 not just features, but the automation, diagnostics, and reliability that keep them running.
