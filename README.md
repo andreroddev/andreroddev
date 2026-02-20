@@ -1,4 +1,3 @@
-# André Rodrigues
 **Software Developer** — .NET · Azure · Systems That Run
 ---
 I build backend systems that handle real operational complexity — not just features, but the infrastructure, automation, and diagnostics that keep them running when no one is watching.
@@ -13,7 +12,7 @@ Backend Engineering · Cloud Architecture · APIs · SQL Performance · Automati
 | **Backend** | .NET · C# · ASP.NET Core · Azure Functions |
 | **Data** | SQL Server — design, tuning, procedures, versioning |
 | **Cloud** | Azure App Service · Blob Storage · SQL · Pipelines |
-| **APIs** | REST · SignalR · JWT · OAuth 2.0 |
+| **APIs** | REST · SignalR · JWT · OAuth 2.0 · Swagger |
 | **Integrations** | Stripe · MailKit · QuestPDF |
 | **DevOps** | CI/CD · Structured Logging · Rate Limiting |
 ---
